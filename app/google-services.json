@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78793684219",
+    "firebase_url": "https://wynky-rider.firebaseio.com",
+    "project_id": "wynky-rider",
+    "storage_bucket": "wynky-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78793684219:android:aa809f43ad9c805614ac5e",
+        "android_client_info": {
+          "package_name": "com.harshavardhan.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78793684219-0hd9r4jg8vutfl4gcjbi8t2jobe3akbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQv2GGljapRiGQoLwta8EpZIzaqaSeWTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78793684219-0hd9r4jg8vutfl4gcjbi8t2jobe3akbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
